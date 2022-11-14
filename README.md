@@ -45,8 +45,25 @@ A1 - The total specifications for all manufacturing lots has a total variance of
 
 4. Deliverable 4: Design a Study Comparing the MechaCar to the Competition - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
+## Study Design: MechaCar vs Competition
+
 There are other items you can review and dig into like car weight and horsepower versus mpg.
 
-  
+* What metric or metrics are you going to test?
 
+  Most consumers are interested in overall cost of the vehicle (dependendent variable) based on multiple reasons, like: MPG / Safety features / horsepower etc (independent variables)
+
+* What is the null hypothesis or alternative hypothesis?
+
+  Null - MechaCar is fairly priced based on overall vehicle model/package as compared to competitors.
+
+  Alternative - Competitors have the advantage, as Mechacar is NOT fairly prised based on overall vehicle model/package.
+
+* What statistical test would you use to test the hypothesis? And why?
+
+  The best statistical test for this would be multiple linear regression to show the highest correlation between sales prices and vehicle model and package.
+
+* What data is needed to run the statistical test?
+
+  Sales data by vehicle model/package compared against the closest competitors sales data and vehicle model/package.
  
